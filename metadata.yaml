@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '25264'
     url: http://www.gutenberg.org/2009/agents/25264
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22324#Pushed-and-the-Return-Push
 gutenberg_issued: '2007-08-15'
 gutenberg_type: Text
 identifiers:
