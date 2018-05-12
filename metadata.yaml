@@ -1,0 +1,26 @@
+_repo: Pushed-and-the-Return-Push_22324
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nichols, George Herbert Fosdike
+    alias: Quex
+    gutenberg_agent_id: '25264'
+    url: http://www.gutenberg.org/2009/agents/25264
+description: ''
+gutenberg_issued: '2007-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22324'
+  lccn: '19010078'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Personal narratives, English'
+- !lcc 'D501'
+title: Pushed and the Return Push
+url: http://www.gutenberg.org/ebooks/22324
